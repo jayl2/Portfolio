@@ -38,7 +38,7 @@
 }
 
 .second-div{
-  min-height: 100vh;
+  min-height: 60vh;
 }
 
 .fa-react{
@@ -49,4 +49,6 @@
 
 .icons{
   width:10rem;
+  padding: 2.5rem;
+  margin-top:5rem;
 }

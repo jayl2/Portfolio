@@ -24,7 +24,7 @@
   font-size: 2.5rem;
   position:relative;
   margin:auto;
-  top: 16rem;
+  top: 14rem;;
 }
 
 .personal-brand{
@@ -33,7 +33,7 @@
   max-width: 50%;
   position: relative;
   margin:auto;
-  top: 17rem;
+  top: 16rem;
  
 }
 
@@ -51,4 +51,18 @@
   width:10rem;
   padding: 2.5rem;
   margin-top:5rem;
+}
+
+.footer{
+  min-height: 4rem;
+  background-color: rgb(222, 218, 218);
+  opacity: 80%;
+  z-index: 1;
+
+}
+
+.footer-icon{
+  width: 3rem;
+  margin: 15px 5px 15px;
+
 }

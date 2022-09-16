@@ -39,6 +39,7 @@
 
 .second-div{
   min-height: 60vh;
+  padding-bottom: 5rem;
 }
 
 .fa-react{
@@ -56,8 +57,11 @@
 .footer{
   min-height: 4rem;
   background-color: rgb(222, 218, 218);
-  opacity: 80%;
+  opacity: 50%;
   z-index: 1;
+  bottom:0;
+  position:fixed;
+  width:100%
 
 }
 

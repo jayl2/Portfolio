@@ -2,37 +2,51 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.nav-links{
+  position: relative;
+  right:0;
+  color:black;
+  padding: 10px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif
+
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.first-div{
+  min-height:90vh;
+  background-image:url('https://media.istockphoto.com/illustrations/black-3d-abstract-geometrical-background-illustration-id1147842752?k=20&m=1147842752&s=612x612&w=0&h=X90J3yrVMthLtBu8lnfvDK6_1N0ia4s7SH2oJDFoO4M=');
+  background-size: cover;
+  font-family:Arial, Helvetica, sans-serif;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.my-name{
   color: white;
+  font-size: 2.5rem;
+  position:relative;
+  margin:auto;
+  top: 16rem;
 }
 
-.App-link {
-  color: #61dafb;
+.personal-brand{
+  color:aliceblue;
+  font-size:1rem;
+  max-width: 50%;
+  position: relative;
+  margin:auto;
+  top: 17rem;
+ 
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.second-div{
+  min-height: 100vh;
+}
+
+.fa-react{
+  padding:15px;
+  width:100rem;
+  height:3rem;
+}
+
+.icons{
+  width:10rem;
 }

@@ -4,7 +4,7 @@ const Resume = () => {
   return (
     <div>
       <div className="tee"></div>
-      <body className="resume-body">
+      <body className="resume-body w3-animate-zoom">
         <h1>Jay Leung</h1>
         <h2>
           <b>Full Stack Developer</b>

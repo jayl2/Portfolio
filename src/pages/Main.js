@@ -25,10 +25,10 @@ const Main = () => {
       <div className="second-div">
         <Row>
           <h2>Skill Set</h2>
-          <h5>
+          <h4>
             HTML5 | CSS 3 | ES6 | ReactJS | NODE.JS | MongoDB | Git | Python |
             Django | Vue
-          </h5>
+          </h4>
         </Row>
         <Row>
           <Col>

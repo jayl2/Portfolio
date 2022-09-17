@@ -121,3 +121,11 @@ h5,h6{
   z-index:-1;
 }
 
+/* ----PROJECTS PAGE---- */
+
+.farm{
+  width:20rem;
+  margin:15px;
+  border: solid black;
+  border-radius:5px;
+}

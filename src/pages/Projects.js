@@ -8,15 +8,23 @@ const Projects = () => {
       Projects
       <Container>
         <Row>
-          <Col md={6}> Carson's Farm Adventure</Col>
+          <Col > 
+          <h1>Carson's Farm Adventure</h1>
+          <img className='farm' src='https://i.imgur.com/1PpJgTf.png'></img>
+          <img className='farm'src='https://i.imgur.com/kjCJZUE.png'></img>
+          </Col>
        
-          <Col md={6}>Gobble Resstaurant Reviews</Col>
+          <Col>
+          <h1>Gobble Resstaurant Reviews</h1>
+          </Col>
         </Row>
         <Row>
+          <Col>
           <h1>Quizards Quiz Cards</h1>
-        </Row>
-        <Row>
+          </Col>
+          <Col>
           <h1>PhotoShopR</h1>
+          </Col>
         </Row>
       </Container>
     </div>

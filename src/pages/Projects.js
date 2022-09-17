@@ -8,10 +8,9 @@ const Projects = () => {
       Projects
       <Container>
         <Row>
-          <h1> Carson's Farm Adventure</h1>
-        </Row>
-        <Row>
-          <h1>Gobble Resstaurant Reviews</h1>
+          <Col md={6}> Carson's Farm Adventure</Col>
+       
+          <Col md={6}>Gobble Resstaurant Reviews</Col>
         </Row>
         <Row>
           <h1>Quizards Quiz Cards</h1>

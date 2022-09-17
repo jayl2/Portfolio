@@ -80,6 +80,9 @@ a{
   margin: 15px 5px 15px;
 }
 
+
+/* RESUME PAGE */
+
 h5, h6, li{
   text-align:justify;
 }
@@ -93,6 +96,7 @@ h5,h6{
   padding: 3rem;
   font-size: 12px;
   max-width:70rem;
+  min-width:50rem;
   left:auto;
   border: solid black;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px,

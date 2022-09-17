@@ -1,8 +1,9 @@
 import React from "react";
+import {Col} from 'react-bootstrap'
 
 const Resume = () => {
   return (
-    <div>
+    <div className='resume-page'>
       <div className="tee"></div>
       <body className="resume-body w3-animate-zoom">
         <h1>Jay Leung</h1>

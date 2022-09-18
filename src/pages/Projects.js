@@ -9,7 +9,7 @@ const Projects = () => {
       <Container className='w3-animate-opacity'>
         <Row>
           <Col className='project-container' > 
-          <h3>Carson's Farm Adventure</h3>
+          <h3>Carson's Farm Adventures</h3>
           <img className='project-image' src='https://i.imgur.com/1PpJgTf.png'></img>
           <h4>Javascript</h4>
           <p> Carson's Farm  is a children's interactive game using pure Vanilla Javascript.</p>

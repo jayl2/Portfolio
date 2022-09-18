@@ -12,7 +12,7 @@ const Projects = () => {
           <h3>Carson's Farm Adventures</h3>
           <img className='project-image' src='https://i.imgur.com/1PpJgTf.png'></img>
           <h4>Javascript</h4>
-          <p> Carson's Farm  is a children's interactive game using pure Vanilla Javascript.</p>
+          <p> Carson's Farm is a children's interactive game using pure Vanilla Javascript.</p>
           <Button variant='primary'>View Page</Button>
          
           </Col>
@@ -32,6 +32,7 @@ const Projects = () => {
           <h3>Quizards Quiz Cards</h3>
           <img className = 'project-image' src='https://i.imgur.com/D7ytHbA.png'/>
           <h4>PERN Stack</h4>
+          <p>Quizards is study tool</p>
           <Button variant='primary'>View Page</Button>
           </Col>
           <Col className='project-container' >

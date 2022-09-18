@@ -95,8 +95,8 @@ h5,h6{
   margin:8rem;
   padding: 3rem;
   font-size: 12px;
-  max-width:70rem;
-  min-width:50rem;
+  max-width:100vh;
+  min-width:100vh;
   left:auto;
   border: solid black;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px,
@@ -118,6 +118,7 @@ h5,h6{
 .tee{
   background-color: rgb(203, 201, 201);
   min-height:170vh;
+  min-width:100vh;
   z-index:-1;
 }
 

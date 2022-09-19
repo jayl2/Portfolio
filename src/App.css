@@ -166,4 +166,24 @@ h5,h6{
     font-size: 8px;
     width:100%;
   }
+
+  .tee{
+    display:none;
+  }
+
+  .footer{
+    min-height: 2rem;
+    background-color: rgb(222, 218, 218);
+    opacity: 50%;
+    z-index: 1;
+    bottom:0;
+    position:fixed;
+    width:100%
+  }
+  
+  .footer-icon{
+    width: 1.7rem;
+    margin: 10px 5px 10px;
+  }
 }
+

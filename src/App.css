@@ -95,8 +95,7 @@ h5,h6{
   margin:8rem;
   padding: 3rem;
   font-size: 12px;
-  width:100%;
-  width:100%;
+  width:100vh;
   left:auto;
   border: solid black;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px,
@@ -111,8 +110,9 @@ h5,h6{
   top:0  ;
   background-color:white;
   border-radius: 20px;;
-
 }
+
+
 
 .tee{
   background-color: rgb(203, 201, 201);
@@ -156,4 +156,14 @@ h5,h6{
 .about-bottom{
   min-height: 35vh;
   background-color: rgb(184, 184, 184);;
+}
+
+
+/* -----MEDIA QUERY------ */
+@media only screen and (max-width: 600px) {
+  .resume-body{
+    padding: 10px;
+    font-size: 8px;
+    width:100%;
+  }
 }

@@ -72,6 +72,7 @@ const Resume = () => {
           PhotoShopR - A Full MERN eCommerce stack with full CRUD operations
           where users can shop Digital Cameras and Lenses.
         </li>
+        <div><br></br></div>
         <h5>CVS Health - District Training Manager / Coach 2016 - 2022</h5>
         <h6>Foundational Leader</h6>
         <li>Oversee top volume store in lower Manhattan Market - $11M+</li>
@@ -112,6 +113,7 @@ const Resume = () => {
           Facilitate Training sessions for 14 stores, 28 leaders and +150
           colleagues on a quarterly basis.
         </li>
+        <div><br></br></div>
         <h5>
           Rite Aid Corporation - Store Manager / Regional Trainer 2005- 2016
         </h5>
@@ -144,6 +146,7 @@ const Resume = () => {
           Prepared weekly staff schedules, invoices, item recall and additional
           administrative work.
         </li>
+        <div><br></br></div>
         <h5> EDUCATION</h5>
         <h6>
           LaGuardia Community College, CUNY - Business Management |Business

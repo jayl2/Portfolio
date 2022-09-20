@@ -8,10 +8,10 @@ const Nav = () => {
         {" "}
         Main
       </Link>
-      <Link className="nav-links" to="/about">
+      {/* <Link className="nav-links" to="/about">
         {" "}
         About Me{" "}
-      </Link>
+      </Link> */}
       <Link className="nav-links" to="/projects">
         Projects{" "}
       </Link>

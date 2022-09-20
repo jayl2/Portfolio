@@ -1,9 +1,9 @@
 import React from "react";
-import {Col} from 'react-bootstrap'
+import { Col } from "react-bootstrap";
 
 const Resume = () => {
   return (
-    <div className='resume-page'>
+    <div className="resume-page">
       <div className="tee"></div>
       <body className="resume-body w3-animate-zoom">
         <h1>Jay Leung</h1>
@@ -21,15 +21,14 @@ const Resume = () => {
           </span>{" "}
         </p>
         <p>
-          I am a skilled software developer. Infused with a high level of
+          I am a modern day software developer. Infused with a high level of
           attention to detail, identifying problems at ease with a strong
           ability to problem solve. I carry a diverse set of skills including
           leadership, coaching, engagement, strategic planning and strong
           ability to prioritize.
         </p>
-        <p>
-          <b>QUALIFICATIONS</b>
-        </p>
+        <b>QUALIFICATIONS</b>
+
         <p>
           Management Proficiency | Client relationships | | Exceptional
           Organizational Skills | Collaborative with the ability to prioritize
@@ -37,20 +36,20 @@ const Resume = () => {
           | Training & Development | Project Management | Conflict Resolution |
           High Level Attention To Detail
         </p>
-        <p>
-          <b> Technical Skill Set</b>
-        </p>
+
+        <b> Technical Skill Set</b>
+
         <p>
           HTML5 | CSS3 | Javascript ES6 | jQuery | ReactJS | Node.JS | MongoDB |
           Mongoose |MERN |Git| GitHub | Python3 |VueJS |Django
         </p>
-        <p>
-          <b> EXPERIENCES</b>
-        </p>
+
+        <b> EXPERIENCES</b>
+
         <h5>General Assembly - 2022</h5>
         <h6>Software Engineer Immersive</h6>
         <li>
-          Over 500 hours deeli diving into modern software development
+          Over 500 hours deep diving into modern software development
           technologies. Implementing today’s languages and frameworks to build
           various projects.
         </li>
@@ -72,7 +71,9 @@ const Resume = () => {
           PhotoShopR - A Full MERN eCommerce stack with full CRUD operations
           where users can shop Digital Cameras and Lenses.
         </li>
-        <div><br></br></div>
+        <div>
+          <br></br>
+        </div>
         <h5>CVS Health - District Training Manager / Coach 2016 - 2022</h5>
         <h6>Foundational Leader</h6>
         <li>Oversee top volume store in lower Manhattan Market - $11M+</li>
@@ -113,7 +114,9 @@ const Resume = () => {
           Facilitate Training sessions for 14 stores, 28 leaders and +150
           colleagues on a quarterly basis.
         </li>
-        <div><br></br></div>
+        <div>
+          <br></br>
+        </div>
         <h5>
           Rite Aid Corporation - Store Manager / Regional Trainer 2005- 2016
         </h5>
@@ -146,10 +149,15 @@ const Resume = () => {
           Prepared weekly staff schedules, invoices, item recall and additional
           administrative work.
         </li>
-        <div><br></br></div>
+        <div>
+          <br></br>
+        </div>
+        <br></br>
         <h5> EDUCATION</h5>
+        <br></br>
         <h6>
-          LaGuardia Community College, CUNY - Business Management |Business
+          LaGuardia Community College, CUNY - Business Management | Business
+          administraton
         </h6>
         <h6>
           Administration General Assembly - Software Engineering Immersive

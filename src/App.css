@@ -72,7 +72,6 @@ a{
   bottom:0;
   position:fixed;
   width:100%
-
 }
 
 .footer-icon{
@@ -97,7 +96,7 @@ h5,h6{
   font-size: 12px;
   width:100vh;
   left:auto;
-  border: solid black;
+  border: solid black 2px;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px,
               rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px,
               rgba(0, 0, 0, 0.09) 0px -3px 5px;
@@ -135,8 +134,16 @@ h5,h6{
 
 .project-container{
   margin: 3rem 0;
+  margin-bottom: 5rem
 }
 
+h4{
+  margin-top:2rem;
+}
+
+.projects-page{
+  background-color: rgb(241, 241, 241);
+}
 
 /* -----ABOUT ME Page----- */
 

@@ -9,7 +9,7 @@ const Projects = () => {
       <Container className="w3-animate-opacity">
         <Row>
           <Col className="project-container">
-            <h3>Carson's Farm Adventures</h3>
+            <h3>Children's Farm Adventures</h3>
             <img
               className="project-image"
               src="https://i.imgur.com/1PpJgTf.png"
@@ -18,7 +18,7 @@ const Projects = () => {
             <h4>Javascript</h4>
             <p>
               {" "}
-              Carson's Farm is a children's interactive game built with HTML,
+              Children's Farm is a children's interactive game built with HTML,
               CSS and Vanilla Javascript. It is a game to build children's
               understanding of the Alphabet.
             </p>
